@@ -1,0 +1,11 @@
+# ninja log v5
+23	182	7255830153679174	CMakeFiles/computer_room_management_system.dir/Identity.cpp.obj	e7bb65b4d4b2fdda
+14	4294	7255830853686165	CMakeFiles/computer_room_management_system.dir/Teacher.cpp.obj	60ad05143a88c745
+1	4674	7255830198591232	CMakeFiles/computer_room_management_system.dir/main.cpp.obj	eec30e7b06eb4788
+13	5028	7255830202067540	CMakeFiles/computer_room_management_system.dir/Manager.cpp.obj	c55342abc2e3b339
+24	2177	7255830832520278	CMakeFiles/computer_room_management_system.dir/orderFile.cpp.obj	e03461bf2123dc95
+0	279	7255831981714002	build.ninja	39d4b61b529a2a6a
+4	1308	7255830823799008	CMakeFiles/computer_room_management_system.dir/ComputerRoom.cpp.obj	184f6aa06dc432d1
+49	3417	7255830844939352	CMakeFiles/computer_room_management_system.dir/Mysql_Connect.cpp.obj	608cb5e3d0804ccc
+37	9559	7255830906233441	CMakeFiles/computer_room_management_system.dir/student.cpp.obj	a2483dd90b87b8a4
+9560	13509	7255830945740126	computer_room_management_system.exe	7a95642e92647966

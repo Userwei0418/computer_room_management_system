@@ -1,0 +1,4 @@
+date:2023-10-5 intervals:2 stuId:2022001 stuName:张三 roomId:2 status:0
+date:2022-1-3 intervals:2 stuId:2022001 stuName:张三 roomId:2 status:0
+date:2023-1-23 intervals:2 stuId:2022002 stuName:李四 roomId:3 status:-1
+date:2222-2-2 intervals:1 stuId:2022001 stuName:张三 roomId:2 status:2
